@@ -1,0 +1,6 @@
+lenovo@idea-PC MINGW64 ~/Desktop
+$ git config --global user.name 'Janahvee Shah'
+
+lenovo@idea-PC MINGW64 ~/Desktop
+$ git config --global user.email 'jrshah15396@gmail.com'
+
